@@ -1,4 +1,4 @@
 # Projects
-Projects, programs and game created by it2schol students.
+Projects, programs and games created by it2school students.
 
 Here is our [website](http://www.it2school.od.ua/)
