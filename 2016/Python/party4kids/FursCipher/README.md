@@ -1,4 +1,4 @@
-<p>Проект <strong>FursCipher</strong> разработал <em>Леонид Фурсенко<em>.</p>
+<p>Проект <strong>FursCipher</strong> разработал <em>Леонид Фурсенко</em>.</p>
 
 <p><strong>Учителя:</strong> Николай Гуменюк и Никита Добрянский.</p>
 <p><strong>Локация:</strong> коворкинг <a href="https://terminal42.com.ua/">Терминал42</a>.</p>
